@@ -2,7 +2,7 @@ import requests
 import json
 import os
 
-# key = os.environ["KEY"]
+key = os.environ["KEY"]
 
 def list_lights():
     
